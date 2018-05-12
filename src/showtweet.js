@@ -1,6 +1,5 @@
 import Tweet from './Tweet';
-import ReactDOM from 'react-dom';
-import React from 'react';
+import ReactDom from 'react-dom';
 
 ReactDOM.render(
   <Tweet />,
